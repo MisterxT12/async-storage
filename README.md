@@ -14,7 +14,7 @@ Native.
 
 ## Getting Started
 
-Head over to the
+
 [documentation](https://react-native-async-storage.github.io/async-storage/docs/install)
 to learn more.
 
